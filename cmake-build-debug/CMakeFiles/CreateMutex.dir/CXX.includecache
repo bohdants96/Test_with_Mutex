@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bohda/CLionProjects/CreateMutex/main.cpp
+iostream
+-
+Windows.h
+-
+fstream
+-
+string
+-
+tchar.h
+-
+strsafe.h
+-
+chrono
+-
+
